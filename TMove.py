@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jan 15 18:14:24 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
-
-import TQsa
 
 class TMove:
     def __init__(self, Qsa, s):

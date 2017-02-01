@@ -1,9 +1,9 @@
 
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 13 20:28:45 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
 
 import TQsa
